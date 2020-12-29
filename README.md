@@ -7,7 +7,7 @@ Ellieというクラウド開発環境
 > https://qiita.com/ababup1192/items/f72dc6bbcbe2f075a74b
 
 ## SVGを使用した図形描画
-'''
+``` elm
 module Main exposing (main)
 
 import Svg exposing (Svg, svg, rect, circle)
@@ -33,7 +33,8 @@ main =
             []
 
         ]
-'''
+```
+
 ## viewで図形を表示する
 上記でmainで図形描画していたものをviewで描画できるようにする。
 
