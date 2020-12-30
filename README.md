@@ -180,6 +180,10 @@ viewRect (xPos,yPos)=
 参考サイト
 > https://youtu.be/pv_GM2Bu-NU
 
+問題点
+- コードが長い（50行ほどにおさまるらしい）
+- Listなど理解できていないところが多数
+
 ## ドラッグで図形を移動させる
 
 ``` elm
