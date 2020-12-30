@@ -82,7 +82,8 @@ view model =
 参考サイト
 > https://blog.emattsan.org/entry/2019/05/26/093114
 
-##　ドラッグで図形を移動させる
+## ドラッグで図形を移動させる
+
 ``` elm
 module Main exposing (main)
 
