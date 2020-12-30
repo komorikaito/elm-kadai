@@ -176,7 +176,9 @@ viewRect : (Float,Float) -> Svg msg
 viewRect (xPos,yPos)=
     rect [x (String.fromFloat xPos), y (String.fromFloat yPos)
         ,width "100", height "100"] []
-        ```
+ ```
+参考サイト
+> https://youtu.be/pv_GM2Bu-NU
 
 ## ドラッグで図形を移動させる
 
