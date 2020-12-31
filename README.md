@@ -234,3 +234,6 @@ view model =
         []
       ]
  ```
+
+図形のdiv要素をクリックした時dragがTrueになり
+Trueの時、x,y座標をoffsetを基点にして移動させる(offsetはdiv要素の左上)
